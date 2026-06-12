@@ -9,7 +9,7 @@
 [![Security](https://img.shields.io/badge/Focus-Cloud_Security-blue?logo=spring-security)]()
 [![Status](https://img.shields.io/badge/Status-Active-success)]()
 
-**[Live App (PartyRock)](#) • [Report Bug](https://github.com/l9rins/aws-cloud-security-policy-advisor/issues) • [Request Feature](https://github.com/l9rins/aws-cloud-security-policy-advisor/issues)**
+**[Live App (PartyRock)](https://partyrock.aws/u/l9rinsishere/FmN-7VsK2/Cloud-Security-Policy-Advisor-Platform) • [Report Bug](https://github.com/l9rins/aws-cloud-security-policy-advisor/issues) • [Request Feature](https://github.com/l9rins/aws-cloud-security-policy-advisor/issues)**
 
 </div>
 
